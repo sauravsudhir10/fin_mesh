@@ -1,0 +1,34 @@
+# Configuration files with sensitive data
+config.yaml
+config.json
+
+# Backup files
+*.bak
+*.backup
+
+# Temporary files  
+.trust-policy-temp.json
+
+# Environment files
+.env
+.env.local
+
+# AWS credentials
+finmesh-lf-admin-trust.json.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node modules (if applicable)
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc

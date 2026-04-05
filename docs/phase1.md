@@ -5,10 +5,10 @@
 
 ### Step 1 — Create LF admin IAM role
 
-- [ ] Create `finmesh-lf-admin-trust.json` with LakeFormation + root trust principals
-- [ ] Run `aws iam create-role --role-name finmesh-lf-admin`
-- [ ] Attach `AWSLakeFormationDataAdmin` managed policy
-- [ ] Attach `AWSGlueConsoleFullAccess` managed policy
+- [✅] Create `finmesh-lf-admin-trust.json` with LakeFormation + root trust principals
+- [✅] Run `aws iam create-role --role-name finmesh-lf-admin`
+- [✅] Attach `AWSLakeFormationDataAdmin` managed policy
+- [✅] Attach `AWSGlueConsoleFullAccess` managed policy
 
 ---
 

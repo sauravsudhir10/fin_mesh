@@ -9,7 +9,7 @@
 - [✅] Run `aws iam create-role --role-name finmesh-lf-admin`
 - [✅] Attach `AWSLakeFormationDataAdmin` managed policy
 - [✅] Attach `AWSGlueConsoleFullAccess` managed policy
-test
+
 ---
 
 ### Step 2 — Create S3 bucket + register location
